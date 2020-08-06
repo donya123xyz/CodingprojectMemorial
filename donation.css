@@ -1,0 +1,70 @@
+h1 {text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: 30px;
+    border-bottom: 1px solid #3d1d07;
+    text-shadow: 2px 2px whitesmoke;
+   }
+h2 {
+    text-shadow: 2px 2px rgb(158, 118, 231);
+}  
+
+body {text-align: center;
+    background-color: #93aee0cb;
+   /* margin-right: 4em;
+    margin-left: 4em;*/ 
+    min-width: 980px; text-align: center;
+}  
+
+/*body {background-image: url(rosepic.jpg);
+background-size: 8em;
+background-repeat: no-repeat;
+}*/
+
+/*image#locator { position: fixed; }*/
+#locator {
+    position: absolute;
+    top: 250px;
+    left: 120px;
+}
+#contact { text-align: center;
+}
+
+#footer { text-align: center;
+}
+
+.card { margin: 2em;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 2em;
+
+}
+.card-title { text-decoration: underline;
+
+}
+
+#wrapper { width: 980px;
+    margin: 0 auto; 
+    text-align: left; 
+}
+
+
+
+
+
+
+
+
+a:link  {color: rgb(114, 36, 179);
+}
+a:visited {color:rgba(159, 60, 168, 0.74);
+}
+
+a:focus {background-color: rgb(207, 177, 228);
+}
+a:hover {background-color: rgb(207, 177, 228);
+}
+a:active {color: rgb(96, 224, 96);
+}

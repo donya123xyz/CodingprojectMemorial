@@ -1,0 +1,74 @@
+html { font-size: 17.5px;
+   
+}
+
+body {color: rgb(47, 106, 233); 
+    background-color: #93aee0cb;
+    text-align: center;
+    margin: auto;
+
+}
+
+form {text-align: center;  
+    margin: auto;
+
+    
+}
+
+fieldset {text-align: center;  
+border: double; 
+    display: inline-block;
+    margin-top: 2.2em;
+
+}
+
+.mastfoot {text-align: bottom;
+}
+
+legend {color: rgb(41, 65, 145);
+    font-size: 25px;
+}
+
+form input[type="text"] { size: 3em;
+
+}
+
+
+#form-birthdate, #form-deathdate, #form-name, #description { font-size: 20px;
+   
+}
+
+
+form input[type="submit"] {
+    padding: 10px;
+    margin: auto;
+    border: 1px solid transparent;
+    background: #0c2b68;
+    color: rgb(210, 207, 221);
+    border-radius: 5px;
+    width: 20%;
+    font-size: .8em;
+}
+
+h1 {
+    text-shadow: 2px 1px;
+    color: rgb(53, 53, 228);
+    font-size: 3.5em;
+  }
+
+#wrapper { width: 980px;
+    margin: 0 auto; 
+    text-align: left; 
+}
+
+a:link  {color: rgb(114, 36, 179);
+}
+a:visited {color:rgba(159, 60, 168, 0.74);
+}
+
+a:focus {background-color: rgb(207, 177, 228);
+}
+a:hover {background-color: rgb(207, 177, 228);
+}
+a:active {color: rgb(96, 224, 96);
+}
